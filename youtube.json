@@ -1,0 +1,148 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "YJx4wsKgIFiY5NuCzr6HSBxKFZA",
+  "nextPageToken": "CAQQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 15536,
+    "resultsPerPage": 4
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lG7vQvDGuhgJQgBvy-S2FDDk4_4",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-02T15:29:23Z",
+        "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+        "title": "Computer Networks",
+        "description": "Computer networking impacts almost all aspects of our lives. Computer networks support the way we learn, communicate, play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VwN91x5i25g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VwN91x5i25g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VwN91x5i25g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Neso Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-02T15:29:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BthHuSvdVGCmnFKm0A-QqRZ7IoA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLgwJf8NK-2e6FvFUItZbGYnKiqjrlLpCb"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-26T04:47:34Z",
+        "channelId": "UCdlnqMpRrMcClK2fT6z8EEw",
+        "title": "Internet of Things - IoT",
+        "description": "This playlist includes videos regarding Internet of Things - IoT. Here, in this playlist, the following topics are added: 1.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HJEhL6uVO_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HJEhL6uVO_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HJEhL6uVO_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Engineering Funda",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-26T04:47:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hWyNNiGWHbRoo7UR-U8HS4tH8Rc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1II2zo8RZig"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-12T13:30:12Z",
+        "channelId": "UC-nazOgdRLQABiKstOjKIXQ",
+        "title": "Lunch &amp; Learn S7:E1 Data &amp; Qualtrics",
+        "description": "It's here! Season 7: Episode 1 of the ATSU Lunch & Learn series. During this first episode of Season 7 we'll be discussing data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1II2zo8RZig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1II2zo8RZig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1II2zo8RZig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A.T. Still University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-12T13:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XBcIAX9Q4PyRaNzkTMCG0hQfWx8",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-26T13:04:52Z",
+        "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+        "title": "Cryptography &amp; Network Security",
+        "description": "Computer Networking has impacted almost all aspects of life in this modern world. Imagining a “World without networking” is truly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JoeiLuFNBc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JoeiLuFNBc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JoeiLuFNBc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Neso Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-26T13:04:52Z"
+      }
+    }
+  ]
+}
